@@ -48,3 +48,6 @@ NOTES: <br>
         
         - It would be a great idea to create a requirements.txt file to document your south,
           django, and djangorestframework versions
+
+        - if you are Max OS X user and need to setup nodejs, read: http://shapeshed.com/setting-up-nodejs-and-npm-on-mac-osx/
+        and remmber, that you will run node scripts/web-server.js 
