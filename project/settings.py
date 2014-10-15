@@ -112,7 +112,7 @@ LOGGING = {
 }
 
 try:
-    from local_settings import *
+    from project.local_settings import *
     INSTALLED_APPS += DEBUG_APPS
 except ImportError:
     pass
