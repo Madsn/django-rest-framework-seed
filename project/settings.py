@@ -79,8 +79,7 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     'app',
     'rest_framework.authtoken',
-    'rest_framework',
-    'south',
+    'rest_framework'
 )
 
 # A sample logging configuration. The only tangible logging
